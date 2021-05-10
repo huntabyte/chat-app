@@ -34,7 +34,7 @@
     <a href="https://github.com/hunterajohnston/chat-app"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <!-- <a href="https://github.com/hunterajohnston/chat-app">View Demo</a> -->
+    <a href="https://github.com/hunterajohnston/chat-app">View Demo</a>
     ·
     <a href="https://github.com/hunterajohnston/chat-app/issues">Report Bug</a>
     ·
