@@ -23,7 +23,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/hunterajohnston/chat-app">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="60" height="88">
   </a>
 
   <h3 align="center">Real-Time Chat App</h3>
