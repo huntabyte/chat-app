@@ -141,15 +141,15 @@ Project Link: [https://github.com/hunterajohnston/chat-app](https://github.com/h
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/hunterajohnston/repo.svg?style=for-the-badge
-[contributors-url]: https://github.com/hunterajohnston/repo/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/hunterajohnston/repo.svg?style=for-the-badge
-[forks-url]: https://github.com/hunterajohnston/repo/network/members
-[stars-shield]: https://img.shields.io/github/stars/hunterajohnston/repo.svg?style=for-the-badge
-[stars-url]: https://github.com/hunterajohnston/repo/stargazers
-[issues-shield]: https://img.shields.io/github/issues/hunterajohnston/repo.svg?style=for-the-badge
-[issues-url]: https://github.com/hunterajohnston/repo/issues
-[license-shield]: https://img.shields.io/github/license/hunterajohnston/repo.svg?style=for-the-badge
-[license-url]: https://github.com/hunterajohnston/repo/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/hunterajohnston/chat-app.svg?style=for-the-badge
+[contributors-url]: https://github.com/hunterajohnston/chat-app/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/hunterajohnston/chat-app.svg?style=for-the-badge
+[forks-url]: https://github.com/hunterajohnston/chat-app/network/members
+[stars-shield]: https://img.shields.io/github/stars/hunterajohnston/chat-app.svg?style=for-the-badge
+[stars-url]: https://github.com/hunterajohnston/chat-app/stargazers
+[issues-shield]: https://img.shields.io/github/issues/hunterajohnston/chat-app.svg?style=for-the-badge
+[issues-url]: https://github.com/hunterajohnston/chat-app/issues
+[license-shield]: https://img.shields.io/github/license/hunterajohnston/chat-app.svg?style=for-the-badge
+[license-url]: https://github.com/hunterajohnston/chat-app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hunterajohnston
