@@ -153,3 +153,4 @@ Project Link: [https://github.com/hunterajohnston/chat-app](https://github.com/h
 [license-url]: https://github.com/hunterajohnston/chat-app/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/hunterajohnston
+[product-screenshot]: https://i.ibb.co/xz38BfT/screenshot.png
