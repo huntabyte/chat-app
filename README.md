@@ -1,15 +1,3 @@
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
-***
-***
-***
-*** To avoid retyping too much info. Do a search and replace for the following:
-*** hunterajohnston, chat-app, @h_johnston_, hunter@hunterj.dev, Real-Time Chat App, A real-time chat application built using React, Firebase (Authentication & Firestore), and styled components.
--->
-
 <!-- PROJECT SHIELDS -->
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -72,7 +60,7 @@
 
 ## About The Project
 
-[product-screenshot](https://i.ibb.co/xz38BfT/screenshot.png)
+[![Product Name Screen Shot][product-screenshot]](https://i.ibb.co/xz38BfT/screenshot.png)
 
 A real-time chat application inspired by Slack. Currenty under development and additional features to come in the near future.
 
