@@ -72,7 +72,7 @@
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://i.ibb.co/xz38BfT/screenshot.png)
+[product-screenshot](https://i.ibb.co/xz38BfT/screenshot.png)
 
 A real-time chat application inspired by Slack. Currenty under development and additional features to come in the near future.
 
