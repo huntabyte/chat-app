@@ -1,44 +1,167 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
+<!--
+*** Thanks for checking out the Best-README-Template. If you have a suggestion
+*** that would make this better, please fork the repo and create a pull request
+*** or simply open an issue with the tag "enhancement".
+*** Thanks again! Now go create something AMAZING! :D
+***
+***
+***
+*** To avoid retyping too much info. Do a search and replace for the following:
+*** hunterajohnston, chat-app, @h_johnston_, hunter@hunterj.dev, Real-Time Chat App, A real-time chat application built using React, Firebase (Authentication & Firestore), and styled components.
+-->
 
-## Available Scripts
+<!-- PROJECT SHIELDS -->
 
-In the project directory, you can run:
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
-### `yarn start`
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <a href="https://github.com/hunterajohnston/chat-app">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
+  </a>
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <h3 align="center">Real-Time Chat App</h3>
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+  <p align="center">
+    A real-time chat application built using React, Firebase (Authentication & Firestore), and styled components.
+    <br />
+    <a href="https://github.com/hunterajohnston/chat-app"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <!-- <a href="https://github.com/hunterajohnston/chat-app">View Demo</a> -->
+    ·
+    <a href="https://github.com/hunterajohnston/chat-app/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/hunterajohnston/chat-app/issues">Request Feature</a>
+  </p>
+</p>
 
-### `yarn test`
+<!-- TABLE OF CONTENTS -->
+<details open="open">
+  <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgements">Acknowledgements</a></li>
+  </ol>
+</details>
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<!-- ABOUT THE PROJECT -->
 
-### `yarn build`
+## About The Project
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[![Product Name Screen Shot][product-screenshot]](https://i.ibb.co/xz38BfT/screenshot.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+A real-time chat application inspired by Slack. Currenty under development and additional features to come in the near future.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Built With
 
-### `yarn eject`
+- [React](https://reactjs.org/)
+- [Firebase](https://firebase.google.com/)
+- [Styled-Components](https://styled-components.com/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<!-- GETTING STARTED -->
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Getting Started
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Follow the steps below to get a local copy up and running in your environment
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Prerequisites
 
-## Learn More
+Ensure that you have the latest version of npm installed
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- npm
+  ```sh
+  npm install npm@latest -g
+  ```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Installation
+
+1. Clone the repo
+   ```sh
+   git clone https://github.com/hunterajohnston/chat-app.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+
+<!-- USAGE EXAMPLES -->
+
+## Usage
+
+This app can be used to chat between teams, organizations, or friends.
+
+_For more examples, please refer to the [Documentation](https://example.com)_
+
+<!-- ROADMAP -->
+
+## Roadmap
+
+See the [open issues](https://github.com/hunterajohnston/chat-app/issues) for a list of proposed features (and known issues).
+
+<!-- CONTRIBUTING -->
+
+## Contributing
+
+Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+<!-- LICENSE -->
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+<!-- CONTACT -->
+
+## Contact
+
+Your Name - [@@h*johnston*](https://twitter.com/@h_johnston_) - hunter@hunterj.dev
+
+Project Link: [https://github.com/hunterajohnston/chat-app](https://github.com/hunterajohnston/chat-app)
+
+<!-- ACKNOWLEDGEMENTS -->
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
+[contributors-shield]: https://img.shields.io/github/contributors/hunterajohnston/repo.svg?style=for-the-badge
+[contributors-url]: https://github.com/hunterajohnston/repo/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/hunterajohnston/repo.svg?style=for-the-badge
+[forks-url]: https://github.com/hunterajohnston/repo/network/members
+[stars-shield]: https://img.shields.io/github/stars/hunterajohnston/repo.svg?style=for-the-badge
+[stars-url]: https://github.com/hunterajohnston/repo/stargazers
+[issues-shield]: https://img.shields.io/github/issues/hunterajohnston/repo.svg?style=for-the-badge
+[issues-url]: https://github.com/hunterajohnston/repo/issues
+[license-shield]: https://img.shields.io/github/license/hunterajohnston/repo.svg?style=for-the-badge
+[license-url]: https://github.com/hunterajohnston/repo/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/hunterajohnston
